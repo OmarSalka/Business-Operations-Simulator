@@ -9,5 +9,5 @@ With this information, we were able to simulate the business' operations and man
 After that we studied the results and discovered the points of weakness, (underutilization and bottlenecks and made business recommendations that would solve these problems.
 We developed an optimized simulation that included our suggestions which boosted the utilization by 46% and reduced idle costs by 50%.
 
-###========================
-Each of the two python files (original.py and Optimized.py) return a list of csv files with all the data for every vehicle that enters the facility as well as a matrix that summarizes the data into meaningful statistics.
+### How to obtain the results
+Each of the two python files (original.py and Optimized.py) return a list of csv files with all the data for every vehicle that enters the facility as well as a matrix that summarizes the data into meaningful statistics. To obtain these basically run the file on your terminal and, voila, you'll see the files in you r working directory!
